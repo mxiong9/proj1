@@ -8,6 +8,8 @@ A random pokemon is created each time the '.each do' function is called. This po
 
 # Question 2a: What does the following line in the help text do? Be specific about what "capture_path(id: @pokemon)" is doing. If you're having trouble, look at the Help section in the README.
 
+capture_path is indicating that the button should go to the /capture URL link once it's clicked, while the @pokemon indicates what the id is named.
+
 # Question 3: What would you name your own Pokemon?
 
 # Question 4: What did you pass into the redirect_to? If it is a path, what did that path need? If it is not a path, why is it okay not to have a path here?
